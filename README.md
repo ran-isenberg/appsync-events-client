@@ -61,7 +61,7 @@ npm install
 npm run dev
 ```
 
-1. Open the application in the localhost browser with Vite, and you can:
+3. Open the application in the localhost browser with Vite, and you can:
    - Receive messages published to the `/default/test` channel in real-time.
    - Publish messages to the same channel using the input field.
   
