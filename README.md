@@ -9,6 +9,8 @@ This repository demonstrates how to use AWS AppSync's events feature to enable r
 
 This demo is part of my blog post on [Using AWS AppSync for Real-Time Events](). *(Link to blog post coming soon)*.
 
+Thanks Afik Grinstein for you contribution!
+
 ---
 
 ## How It Works
